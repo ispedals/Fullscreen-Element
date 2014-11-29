@@ -1,0 +1,11 @@
+{
+  "name": "fullscreen-element",
+  "title": "Fullscreen element",
+  "id": "jid1-nK0Nr08dOfbBFQ",
+  "description": "Allows making any element in a webpage fullscreen",
+  "author": "ispedals",
+  "homepage": "https://github.com/ispedals/Fullscreen-Element",
+  "license": "MIT",
+  "version": "1.0",
+  "permissions": {"private-browsing": true}
+}
